@@ -1,0 +1,193 @@
+html, body {
+	background: #1A1A1A!important;
+	color: #CCCCCC!important;
+}
+
+#page, .sf-menu li {
+	background: transparent!important;
+}
+
+a {
+	color: #CCC!important;
+	font-weight: bold;
+}
+
+#wrap, #sidebar, #sidebar-nav, #sidebar-support {
+	background: #333333!important;
+}
+
+#sidebar-nav li a:hover, #sidebar-nav li a.active {
+	color: #fff!important;
+	background-color: #0f3f64!important;
+}
+
+#main {
+	background: #1A1A1A!important;
+}
+
+/* ContentBoxes */
+
+.content-box {
+	background: #333333!important;
+	-webkit-box-shadow: none!important;
+	-moz-box-shadow: none!important;
+	box-shadow: none!important;
+}
+
+.content-box h2, .content-box-header h2 {
+	color: #CCCCCC!important;
+}
+
+.content-box-header {
+	background: #0f3f64!important;
+}
+
+#playersearch .content-box-header {
+	background: #333333!important;
+}
+
+.content-box-content {
+	color: #CCC!important;
+	border-top: 1px solid #0f3f64!important;
+}
+
+.para, #gbox_mainplayergrid {
+	-webkit-box-shadow: none!important;
+	-moz-box-shadow: none!important;
+	box-shadow: none!important;
+}
+
+#gbox_mainplayergrid, .slider_holder {
+	-webkit-box-shadow: none!important;
+	-moz-box-shadow: none!important;
+	box-shadow: none!important;
+}
+
+.ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default {
+	background: #333333!important;
+	border-color: #CCC!important;
+	color: #CCCCCC!important;
+}
+.ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active {
+	border: px solid #0f3f64!important;
+}
+.ui-menu, .ui-menu-item {
+	background: #333333!important;
+	color: #CCCCCC!important;
+}
+
+/* TABS */
+.ui-tabs .ui-tabs-nav {
+	background: #333333!important;
+}
+.ui-tabs .ui-tabs-nav li.ui-tabs-active {
+	background: #0f3f64!important;
+}
+
+.ui-tabs .ui-tabs-panel {
+	background: #333333!important;
+}
+
+.ui-tabs .ui-state-default, .ui-tabs .ui-widget-content .ui-state-default, .ui-tabs .ui-widget-header .ui-state-default {
+	background: #333333!important;
+	border: 1px solid #0f3f64!important;
+	color: #CCCCCC!important;
+}
+.ui-tabs .ui-state-active, .ui-tabs .ui-widget-content .ui-state-active, .ui-tabs .ui-widget-header .ui-state-active {
+	border: 1px solid #0f3f64!important;
+}
+
+.ui-tabs .ui-tabs-nav .ui-tabs-anchor {
+	color: #CCCCCC!important;
+}
+
+fieldset {
+	background: #333333!important;
+	color: #CCCCCC!important;
+	border: 1px solid #0f3f64!important;
+}
+.ui-widget-content {
+	background: #333333!important;
+	color: #CCCCCC!important;
+}
+.ui-widget-content a {
+	color: #CCCCCC!important;
+}
+.ui-slider-pips .ui-slider-pip-inrange {
+	color: #CCCCCC!important;
+}
+
+.ui-slider-float .ui-slider-tip, .ui-slider-float .ui-slider-tip-label {
+	background: #333333!important;
+	color: #CCCCCC!important;
+}
+
+.coverage-slider {
+	color: #919191!important;
+}
+
+.coverage-slider h3 {
+	color: #CCCCCC!important;
+}
+
+/* footer */
+#footer {
+	background: #333333!important;
+}
+
+#bottomblock h3 {
+	color: #888!important;
+}
+
+/* COMPONENTS */
+input[type=text], input[type=password], input.text, input.title, textarea, select {
+	background-color: #333333!important;
+	color: #CCCCCC!important;
+	border-radius: 3px;
+	padding-left: 3px;
+}
+input.ui-rangepicker-input.ui-widget-content, .ui-daterangepickercontain .ui-daterangepicker {
+	background: #333333!important;
+}
+.ui-widget-header a {
+	color: #CCCCCC!important;
+}
+.ui-icon, .ui-widget-content .ui-icon {
+	filter: invert(1);
+}
+.ui-multiSelect-menu {
+	background: #333333!important;
+	color: #CCCCCC!important;
+}
+.ui-state-hover {
+	background: #0f3f64!important;
+	color: #CCCCCC!important;
+	border: 1px solid #0f3f64!important;
+}
+.ui-widget-header {
+	background: #0f3f64!important;
+	color: #CCCCCC!important;
+}
+.ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active {
+	color: #CCCCCC!important;
+	background: #333333!important;
+	border-color: #CCCCCC!important;
+}
+
+.ui-button {
+	background: #0f3f64!important;
+	transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out!important;
+	border: 1px solid #0f3f64!important;
+	box-sizing: border-box!important;
+}
+
+/* CHART */
+.ui-jqgrid .ui-priority-secondary {
+	background: #333333!important;
+}
+
+.ui-jqgrid tr.ui-state-hover, .ui-jqgrid tr.ui-state-highlight {
+	background: #0f3f64!important;
+	color: #CCCCCC!important;
+	border-color: #CCCCCC!important;
+}
