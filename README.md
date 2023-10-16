@@ -1,4 +1,4 @@
-## Improved "new tab" page
+## Sharkscope - Dark Theme
 
 This is a simple extension to change the [sharkscope.com](https://sharkscope.com) website theme to dark mode.
 
